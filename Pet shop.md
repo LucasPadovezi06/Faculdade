@@ -5,17 +5,20 @@ Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orienta
 ## Diagrama de classes (H2)
 
 
-![diagrama de classes](C:\Users\User\Pictures\Screenshots\Captura de tela 2026-09-03 105626.png)
+![diagrama de classes]("C:\Users\User\Desktop\faculdade\diagrama classes.png")
 
 **Abstração:** representada pela classe abstrata Serviço, que contém características e comportamento comum aos diferentes serviços que tem em um petshop.
+
 **Herança:** as classes Banho, Tosa e Consulta herdam da classe Servico.
+
 **Polimorfismo:** o método executar() pode apresentar comportamentos diferentes nas classes Banho, Tosa e Consulta.
+
 **Encapsulamento:** os atributos das classes são privados, sendo acessados e manipulados através de métodos públicos.
 
 ## Diagrama de objetos (H2)
 
 
-![diagrama de objetos](C:\Users\User\Pictures\Screenshots\Captura de tela 2026-09-02 155308.png)
+![diagrama de objetos]("C:\Users\User\Desktop\faculdade\diagrama obj.png")
 
 ### Mensagens entre os objetos: (H3)
 
