@@ -5,7 +5,7 @@ Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orienta
 ## Diagrama de classes (H2)
 
 
-![diagrama de classes]("C:\Users\User\Desktop\faculdade\diagrama classes.png")
+![diagrama de classes]("diagrama classes.png")
 
 **Abstração:** representada pela classe abstrata Serviço, que contém características e comportamento comum aos diferentes serviços que tem em um petshop.
 
@@ -18,7 +18,7 @@ Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orienta
 ## Diagrama de objetos (H2)
 
 
-![diagrama de objetos]("C:\Users\User\Desktop\faculdade\diagrama obj.png")
+![diagrama de objetos]("diagrama obj.png")
 
 ### Mensagens entre os objetos: (H3)
 
