@@ -1,4 +1,4 @@
-# Atividade de POO — Sistema de Petshop (H1)
+# Atividade de POO — Sistema de Petshop 
 
 Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orientada a Objetos (Abstração, Herança, Polimorfismo e Encapsulamento).
 
