@@ -2,7 +2,7 @@
 
 Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orientada a Objetos (Abstração, Herança, Polimorfismo e Encapsulamento).
 
-## Diagrama de classes (H2)
+## Diagrama de classes 
 
 
 ![diagrama de classes](diagrama_classes.png)
@@ -15,12 +15,12 @@ Projeto escolhido: Petshop, aplicando os quatro pilares da Programação Orienta
 
 **Encapsulamento:** os atributos das classes são privados, sendo acessados e manipulados através de métodos públicos.
 
-## Diagrama de objetos (H2)
+## Diagrama de objetos 
 
 
-![diagrama de objetos]("diagrama_obj.png")
+![diagrama de objetos](diagrama_obj.png)
 
-### Mensagens entre os objetos: (H3)
+### Mensagens entre os objetos: 
 
 - joao.adicionarPet(fabito)
 
